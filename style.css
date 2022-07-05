@@ -46,3 +46,37 @@ h2{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experiences{
+    display: flex;
+    background-image: url(images/exp-bg.png);  
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.hero{
+    color: coral;
+}
+.developer{
+    box-shadow: 20px 50px 30px gray;
+    width: 40%;
+    margin-left: 80px;
+    margin-right: 5%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    padding: 5%;
+    padding-bottom: 2%;
+    
+
+}
+#web-developer{
+    border-left: 7px solid tomato;
+}
+#stack{
+    border-left: 7px solid blueviolet;
+}
+#baby{
+    margin-left: 40px;
+}
+
+footer p{
+    text-align: center;
+}
