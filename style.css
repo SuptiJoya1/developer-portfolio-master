@@ -6,7 +6,8 @@
 .welcome{
     padding: 80px;
     width: 50%;
-    padding-right: 40px;
+    
+    
 
 }
 .welcome img{
@@ -37,4 +38,11 @@ h2{
 
 .pra{
     font-size: 20px;
+}
+
+.dream{
+    display: flex; 
+    background-image: url(images/dream-bg.png);  
+    background-repeat: no-repeat;
+    background-position: right;
 }
